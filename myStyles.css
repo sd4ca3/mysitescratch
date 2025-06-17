@@ -1,0 +1,15 @@
+body {
+    font-family: Georgia;
+    font-size: medium;
+    font-weight: 200;
+}
+li{
+    font-size: 18px;
+    font-style: bold;
+}
+feColorMatrix {
+    color:crimson
+}
+a:visited{
+    color:lightslategray
+}
